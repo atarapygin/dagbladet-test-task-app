@@ -1,0 +1,1 @@
+export const getColumns = (arr) => arr.columns;
